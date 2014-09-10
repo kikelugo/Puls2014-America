@@ -14,14 +14,21 @@ Github
 2.- Web / Apps
 3.- Mucho más fácil
 
-Repositorio de código GITHUB (master)
+Repositorio de código o proyecto GITHUB (master)
 Clon local
-	Commit - sync
+	Commit - sync.
+	Al hacer commit comprometemos los cambios al clon local.
+	Al sincronizar hacemos que Github lo tenga.
 
 1.- Múltiples versiones del mismo código
 2.- Cambios Delta
-	Base de datos atómica del código
+	Git es una base de datos atómica del código
 3.- Historial de cada archivo
 4.- Múltiples personas sobre el mismo archivo
 5.- Culpa al culpable
 6.- Ramas (Branches)
+	*Tenemos un master en github.com Repo Principal
+	* master (disco duro) Repo Local
+		* master
+		* experimental
+	* master (servidor.com) Repo Producción

@@ -5,7 +5,7 @@ index.php
 images
 portada.jpg
 
-www.dominio.com
+www.fuckencio.com
 
 Sistema de control de versiones
 SVN: Subversion / Mercurial / TVS / CVS / GIT
